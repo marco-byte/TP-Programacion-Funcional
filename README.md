@@ -1,8 +1,8 @@
 # Trabajo Práctico: Programación Funcional en Java
 
 **Materia:** Desarrollo de Software
-**Alumno:** Federica Benito
-**Legajo:** 50801
+**Alumno:** Marco Del Bosco
+**Legajo:** 46095
 **Comisión:** 3K10
 
 ---
